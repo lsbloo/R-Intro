@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Tipos de Dados!\n# Numericos, Caracteres,Complexos e Lógicos!\n#Numero: 1,5.9,1/3\n# Caractere: \"osvaldo\" String\n# Complexo: z = x+yi\n# Logico: True/False\nnum = 2.5\nnum2 = 4\n\nx = -123\n# Mostra a classe da variavel\n# Podendo ser numerica, caracterer\nclass(x)\n\n# COnversao de tipo numerico\nis.integer(num2)\ny = as.integer(num2)\nclass(y)\n\n\n#COmplex\ncompl = 2.5 +4i\nclass(compl)\n\n#Raiz Quadrada\nsqrt(-1)\nsqrt(81)\n",
+    "created" : 1533600245319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2275953059",
+    "id" : "9BA329FE",
+    "lastKnownWriteTime" : 1533601054,
+    "last_content_update" : 1533601054166,
+    "path" : "~/IntroR/Tipos de Dados.R",
+    "project_path" : "Tipos de Dados.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

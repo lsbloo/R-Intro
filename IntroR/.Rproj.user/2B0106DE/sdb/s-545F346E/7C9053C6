@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#Variaveis\n\nvar1 = 367\n#Retorna o tipo de armazenamento do obj\nmode(var1)\nhelp(\"mode\")\nvar2 = as.integer(var1)\nvar2\ntypeof(var2)\nvar3 = c(\"seg\",\"terça\",\"quarta\")\nvar4 = function(x){x+3}\nvar4(3)\nmode(var4)\nmode(c[0])\nhelp(\"typeof\")\n\n### atribuir valores a objetos\n\nx <- c(4,5,6)\nx[1]\nc(4,5,6) -> y\ny\nassign(\"x\",c(1.2,4,-2))\nx[1]\n\n## verifica objetos\nls()\nobjects()\n\n## remover objetos\nrm(x)\n",
+    "created" : 1533601130050.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3253421754",
+    "id" : "7C9053C6",
+    "lastKnownWriteTime" : 1533602637,
+    "last_content_update" : 1533602637985,
+    "path" : "~/IntroR/Variaveis.R",
+    "project_path" : "Variaveis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

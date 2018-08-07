@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## Operadores Basicos, Relacionais e Logicos\n# Operadores basicos\n4 + 4\n4-4\n4*4\n4/4\n4**2\n## MOdulo\n14%%3\n\n## Operadores Relacionais\n\n# ATRIBUTOS A VARIAVEIS\na = 8\nb = 5\n\n#Operadores \na > 8\na < 8\na <= 8\na >= 8\na == 8\na != 5\n# Operadores Logicos\n# & == and\n# | == or\n# | == not\n(a==8) & (b==6)\na > 8\nprint(!a > 9)\n",
+    "created" : 1533599819554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "885464769",
+    "id" : "42E7C6C6",
+    "lastKnownWriteTime" : 1533600240,
+    "last_content_update" : 1533600240961,
+    "path" : "~/IntroR/Operadores.R",
+    "project_path" : "Operadores.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

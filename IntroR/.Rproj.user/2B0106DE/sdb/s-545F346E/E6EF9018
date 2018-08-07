@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n# Criar graficos\nplot(1:30)\nhist(rnorm(10))\n\n#Instalar pacotes\ninstall.packpages('randomForest')\n\n\n# Carregar Pacote\nlibrary(randomForest)\n#Descarregar pacote\ndetach(packpage:ggplot2)\n\n# nome da funcao se souber\nhelp(\"mean\")\n# se nao souber\nhelp.search('matplot')\n\n# exemplos como utilizar algum item\nexample('matplot')\n",
+    "created" : 1533598640702.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1600962791",
+    "id" : "E6EF9018",
+    "lastKnownWriteTime" : 1533599531,
+    "last_content_update" : 1533599531440,
+    "path" : "~/IntroR/script1.R",
+    "project_path" : "script1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
